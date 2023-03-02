@@ -8,8 +8,14 @@
     color: #fff;
 }
 /* fixed class */
+.c-yelo{
+    color: #FFB203;
+}
 .c-lit-dang{
     color: #F17228;
+}
+.b-lit-dang{
+    background: #F17228;
 }
 .b-lit-pink{
     background: #FEF1E9;
