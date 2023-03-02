@@ -1,0 +1,48 @@
+.hello-section{
+    background: #FEC90E;
+    padding-top: 80px;
+}
+.helo-sec-heading{
+    font-size: 56px;
+    font-weight: bold;
+    color: #fff;
+}
+/* fixed class */
+.c-lit-dang{
+    color: #F17228;
+}
+.b-lit-pink{
+    background: #FEF1E9;
+}
+.smal-txt{
+    font-size: 12px;
+}
+/* ////end fixed class///// */
+.dis-badge{
+    background: #FFBF09;
+    color: #fff;
+    width: 45%;
+    border-top-right-radius: 20px;
+    padding: 5px 10px;
+    position: absolute;
+    bottom: 0;
+    border-bottom-left-radius: 10px;
+}
+.per_off,
+.per_off,
+.per_off,
+.per_off{
+    font-size: 36px;
+}
+.m-img-box{
+    position: relative;
+}
+.m-img-box img{
+    border-radius: 10px;
+}
+.per_sing::first-letter{
+    font-size: 24px
+}
+.gv-heading{
+    margin: 10px 0;
+}
