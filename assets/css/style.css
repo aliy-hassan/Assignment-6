@@ -11,6 +11,9 @@
 .c-yelo{
     color: #FFB203;
 }
+.b-yelo{
+    background: #FFB203;
+}
 .c-lit-dang{
     color: #F17228;
 }
@@ -19,6 +22,15 @@
 }
 .b-lit-pink{
     background: #FEF1E9;
+}
+.b-dark-pink{
+    background: #FCE3D4;
+}
+.b-lit-green{
+    background: #E4F1D8;
+}
+.c-lit-green{
+    color: #79B93C;
 }
 .smal-txt{
     font-size: 12px;
@@ -30,8 +42,11 @@
     width: 45%;
     border-top-right-radius: 20px;
     padding: 5px 10px;
+}
+.fri-badges{
     position: absolute;
-    bottom: 0;
+    top: 10px;
+    left: 10px;
     border-bottom-left-radius: 10px;
 }
 .per_off,
@@ -51,4 +66,7 @@
 }
 .gv-heading{
     margin: 10px 0;
+}
+.fri-star{
+    width: 15px;
 }
