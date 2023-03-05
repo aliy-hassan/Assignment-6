@@ -14,17 +14,26 @@
 .b-yelo{
     background: #FFB203;
 }
+.b-dark-yelo{
+    background: #FF9D01;
+}
 .c-lit-dang{
     color: #F17228;
+}
+.c-lit-dang2{
+    color: #FE6D01;
 }
 .b-lit-dang{
     background: #F17228;
 }
 .b-lit-pink{
-    background: #FEF1E9;
+    background: #FEFAF1;
 }
 .b-dark-pink{
     background: #FCE3D4;
+}
+.b-dark-pink2{
+    background: #FEEFD0;
 }
 .b-lit-green{
     background: #E4F1D8;
@@ -69,4 +78,7 @@
 }
 .fri-star{
     width: 15px;
+}
+.box-bg{
+    background: url('../images/Background.png');
 }
