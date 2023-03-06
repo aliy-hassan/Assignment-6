@@ -51,6 +51,8 @@
     width: 45%;
     border-top-right-radius: 20px;
     padding: 5px 10px;
+    position: absolute;
+    bottom: 0;
 }
 .fri-badges{
     position: absolute;
@@ -81,4 +83,6 @@
 }
 .box-bg{
     background: url('../images/Background.png');
+    background-repeat: no-repeat;
+    background-size: 100% 410px;
 }
